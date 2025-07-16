@@ -1,5 +1,5 @@
 
-# 🧠 Java Polymorphism Example
+ Java Polymorphism Example
 
 This project demonstrates **Polymorphism** in Java using **method overloading**.
 
@@ -10,7 +10,7 @@ It includes a `Student` class with three versions of the `printInfo()` method:
 
 ---
 
-## 📌 Features
+ Features
 
 - Simple console-based Java program
 - Demonstrates **method overloading**
@@ -18,7 +18,7 @@ It includes a `Student` class with three versions of the `printInfo()` method:
 
 ---
 
-## 💡 Concepts Used
+ Concepts Used
 
 - Object-Oriented Programming (OOP)
 - Polymorphism
@@ -28,7 +28,7 @@ It includes a `Student` class with three versions of the `printInfo()` method:
 
 ---
 
-## 🚀 How to Run
+ How to Run
 
 1. Clone the repository:
    ```bash
