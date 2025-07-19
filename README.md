@@ -8,7 +8,6 @@ It includes a `Student` class with three versions of the `printInfo()` method:
 - `printInfo(int age)`
 - `printInfo(String name, int age)`
 
----
 
  Features
 
@@ -16,7 +15,6 @@ It includes a `Student` class with three versions of the `printInfo()` method:
 - Demonstrates **method overloading**
 - Easy to understand for Java beginners
 
----
 
  Concepts Used
 
@@ -26,7 +24,6 @@ It includes a `Student` class with three versions of the `printInfo()` method:
 - Method Overloading
 - Java Data Types and Methods
 
----
 
  How to Run
 
