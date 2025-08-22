@@ -1,6 +1,6 @@
 public class WrapperExample 
 
-    public static void main(String[] args) {//this is main method where execution begins
+    public static void main(String[] args) 
         //boxing (primitive to wrapper objects)
         Integer num = Integer.valueOf(10);//the Integer.valueOf(10) method explicity converts the primitive 10 into an integer object(boxing)
         Double price = 99.9;//here auto boxing occurs because java automatically converts 99.9 (primitive double) into a double object
