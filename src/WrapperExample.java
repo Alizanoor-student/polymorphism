@@ -1,4 +1,4 @@
-public class WrapperExample {//defines a class named WrapperExample
+public class WrapperExample 
 
     public static void main(String[] args) {//this is main method where execution begins
         //boxing (primitive to wrapper objects)
